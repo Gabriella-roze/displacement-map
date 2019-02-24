@@ -40,7 +40,7 @@ function init() {
 
     resultCanvas.addEventListener("mousemove", mouseMoved);
 
-    imgOriginal.src = "cat.jpg";
+    imgOriginal.src = "puppy.jpg";
     imgMap.src = "map.jpg";
 }
 
